@@ -45,4 +45,4 @@ Project Structure
   - `update.html`: The update page template for modifying student records.
 - Database: SQLite file managed through SQLAlchemy.
 Conclusion
-Developing the Basic Student Management System has strengthened my understanding of backend development, from setting up the server and managing databases to integrating user interfaces. This project serves as a practical demonstration of creating and managing a web application that handles essential CRUD operations.
+Developing the Basic Student Management System has strengthened my understanding of backend development, from setting up the server and managing databases to integrating user interfaces. This project serves as a practical demonstration of creating and managing a web application that handles essential CRUD operations..
